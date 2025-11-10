@@ -5,7 +5,7 @@ package io.github.jhutting.madr.javadoc;
  *
  * {@snippet :
  *     // Example usage:
- *     var value = new MarkdownDocumented(1, "test");
+ *     var value = new Classic(1, "test");
  *}
  * <table>
  *     <caption><strong>Example data</strong></caption>
