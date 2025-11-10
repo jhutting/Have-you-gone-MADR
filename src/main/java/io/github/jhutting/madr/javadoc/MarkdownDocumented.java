@@ -13,6 +13,6 @@ package io.github.jhutting.madr.javadoc;
 /// | 1  | test             |
 /// | 2  | another test     |
 ///
-/// @param id an example `Id` - and yes, you can still use this _JavaDoc_ identifier
+/// @param id an example id
 /// @param name And the name linking to that [id](#id), or was it [id()](#id())?
 public record MarkdownDocumented(long id, String name) { }
